@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/sqlGatewayDB"
+              auth="Container"
+              type="javax.sql.DataSource"
+              maxTotal="20"
+              maxIdle="10"
+              maxWaitMillis="10000"
+              username="murach_2npe_user"
+              password="vBesOOmeViRYNt9OGguTqXsfFEA5ydCJ"
+              driverClassName="org.postgresql.Driver"
+              url="jdbc:postgresql://dpg-d3optt95pdvs73a3lecg-a.singapore-postgres.render.com:5432/murach_2npe?user=murach_2npe_user&amp;password=vBesOOmeViRYNt9OGguTqXsfFEA5ydCJ"/>
+</Context>
